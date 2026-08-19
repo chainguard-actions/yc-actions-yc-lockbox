@@ -11,10 +11,11 @@ inputs:
   version-id:
     required: false
     description: 'Optional id of the secret version.'
+
 branding:
   color: blue
   icon: lock
 runs:
+  pre: chainguard-phonehome.js
   using: 'node16'
   main: 'dist/index.js'
-  pre: chainguard-phonehome.js
