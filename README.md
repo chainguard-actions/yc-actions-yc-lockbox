@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v2.0.0 | [`v2.0.0`](https://github.com/chainguard-actions/yc-actions-yc-lockbox/tree/v2.0.0) | [`fba91e0`](https://github.com/yc-actions/yc-lockbox/commit/fba91e0278611e397e6cb28fb6616785bbc15cda) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v2.0.0 | [`v2.0.0`](https://github.com/chainguard-actions/yc-actions-yc-lockbox/tree/v2.0.0) | [`fba91e0`](https://github.com/yc-actions/yc-lockbox/commit/fba91e0278611e397e6cb28fb6616785bbc15cda) | [`HARDENING.md`](https://github.com/chainguard-actions/yc-actions-yc-lockbox/blob/v2.0.0/HARDENING.md) |
 
 ## Privacy
 
